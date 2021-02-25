@@ -1,0 +1,6 @@
+port: 8080
+interval: 15
+nodes:
+  node01: http://10.32.10.1:3009/
+  node02: http://10.32.10.2:3009/
+
